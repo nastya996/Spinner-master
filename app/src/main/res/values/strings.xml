@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">View-Spinner</string>
+    <string name="show_address">Показать адрес</string>
+    <string name="russia">Россия</string>
+    <string name="ukraine">Украина</string>
+    <string name="belarus">Беларусь</string>
+    <string name="moscow">Москва</string>
+    <string name="spb">Санкт-Петербург</string>
+    <string name="kazan">Казань</string>
+    <string name="kiev">Киев</string>
+    <string name="odessa">Одесса</string>
+    <string name="kharkov">Харьков</string>
+    <string name="minsk">Минск</string>
+    <string name="gomel">Гомель</string>
+    <string name="torzhok">Торжок</string>
+
+
+    <string-array name="countries">
+        <item>@string/russia</item>
+        <item>@string/ukraine</item>
+        <item>@string/belarus</item>
+    </string-array>
+    <string-array name="r_cities">
+        <item>@string/moscow</item>
+        <item>@string/spb</item>
+        <item>@string/kazan</item>
+    </string-array>
+</resources>
